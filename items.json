@@ -1,0 +1,76 @@
+{
+  "normies": [
+    {
+      "id": 1,
+      "name": "Anastasia Darks",
+      "urbanTribe": "Metalhead",
+      "isNormie": false,
+      "description": "Came from the frozen lands of the Antartida. Her heart is cold like the winter and she's ready to ignore you any time you show that you are happy or you try to make a joke.",
+      "age": 23,
+      "image": [
+        "https://th.bing.com/th/id/OIG.ZrszJetpUzWoHixF3AOq?w=270&h=270&c=6&r=0&o=5&pid=ImgGn",
+        "https://th.bing.com/th/id/OIG.Qz0jHwoCBqNSWkXpjDj0?pid=ImgGn&w=1024&h=1024&rs=1",
+        "https://cdn.leonardo.ai/users/85d57301-957e-45b5-8213-e4df2524bcc1/generations/ec38e2c3-8744-4c81-9ca6-fc201ba69c99/Leonardo_Diffusion_sketch_funny_cartoon_blackmetal_girl_0.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Exasty Pete",
+      "urbanTribe": "Modern",
+      "isNormie": true,
+      "description": "Just arrived from the Born neightbourhood in Bcn. Avocados and Brunch-Electronic are his passion, and he's always ready to yell at people on twitter while wearing his gafapastas. ",
+      "age": 33,
+      "image": [
+        "http://coloquialmente.com/sites/default/files/inline-images/gafapasta_0.jpg",
+        "https://th.bing.com/th/id/OIG.dwh2FsusQ5qJvDhaXUnZ?pid=ImgGn",
+        "https://cdn.leonardo.ai/users/85d57301-957e-45b5-8213-e4df2524bcc1/generations/529d5967-cf13-49f4-9fa0-75eb56f6ca42/Leonardo_Diffusion_studio_ghibli_sketch_colorful_happy_arrogan_3.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Rotten Jimmy",
+      "urbanTribe": "Punk Rat",
+      "isNormie": false,
+      "description": "Always running away from baths and cologne. He will have you listening to his stories about how dangerous he is, but will not tell you about all the money his papa sends to him every weekend. ",
+      "age": 45,
+      "image": [
+        "https://th.bing.com/th/id/OIG.mKlFFhtuZvaIeGPeJP9g?pid=ImgGn&w=1024&h=1024&rs=1",
+        "https://th.bing.com/th/id/OIG._uPtdbeNG4KYKTvRt8j_?pid=ImgGn",
+        "https://cdn.leonardo.ai/users/85d57301-957e-45b5-8213-e4df2524bcc1/generations/1a6fc1f7-a4b4-4289-9485-e9084d8148e1/Leonardo_Diffusion_studio_ghibli_sketch_cartoon_2d_punk_guy_wi_2.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Fit Marina",
+      "urbanTribe": "Crossfitter",
+      "isNormie": true,
+      "description": "She's already at the gym right now, counting reps and obtaining gains. Don't fucking try to meet her this week, cause she's on bulk fase this month and she's supposed to be eating all time.",
+      "age": 25,
+      "image": [
+        "https://cdn.leonardo.ai/users/85d57301-957e-45b5-8213-e4df2524bcc1/generations/29830a10-23c7-4afe-bd1c-009cf6af7415/Leonardo_Diffusion_sketch_illustration_gym_crossfit_girl_muscu_1.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Sonia Herbs",
+      "urbanTribe": "Yoggi",
+      "isNormie": true,
+      "description": "Namashte my friend, may the energetic auras of the galaxy and the constelation gods of the ancient cristals of power be with you. She can see your soul with her third eye and will guide you to the infinite happiness. She was seen in Mc Donalds the other day but she will never confess. ",
+      "age": 38,
+      "image": [
+        "https://cdn.leonardo.ai/users/85d57301-957e-45b5-8213-e4df2524bcc1/generations/8272859b-01e9-49fe-82df-077f7a6c468f/Leonardo_Diffusion_sketch_illustration_yogi_herbs_vegan_namash_2.jpg"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Cansino Tom",
+      "urbanTribe": "Animal Activist",
+      "isNormie": true,
+      "description": "He has seen all the animal rights documentaries and movies, red all the books, he's got all the t-shirts, shared all the Instagram posts. Ok Tom, ok. But, give us a break please.",
+      "age": 23,
+      "image": [
+        "https://cdn.leonardo.ai/users/85d57301-957e-45b5-8213-e4df2524bcc1/generations/c57e7c75-b74c-4ff4-b15a-975158307046/Leonardo_Diffusion_sketch_illustration_animal_activist_hippie_1.jpg"
+      ]
+    }
+  ]
+}
